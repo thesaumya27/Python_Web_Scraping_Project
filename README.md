@@ -1,5 +1,5 @@
 # Python_Web_Scraping_Project
-This project demonstrates the use of web scraping techniques to extract, process, and analyze data from websites.
+This project demonstrates the use of web scraping techniques to extract, process, and analyze data from websites. The dataset used in this project is a list of the largest companies in India, sourced from wikipedia.
 
 ## Features
 Data Extraction: Retrieves structured data from web pages.
